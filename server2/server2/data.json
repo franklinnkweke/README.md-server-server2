@@ -1,0 +1,14 @@
+[
+  {
+    "title": "W3Schools Online Web Tutorials",
+    "description": "W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many, many more.",
+    "imageUrls": [
+      "codeeditor.gif",
+      "/tryit/best2.gif",
+      "how-spaces-works3.png",
+      "/images/colorpicker.png",
+      "/images/w3lynx_200.png",
+      "w3css_templates.jpg"
+    ]
+  }
+]
